@@ -8,4 +8,5 @@
 ### 4. The chart/plot resizes according to the window size.
 
 
-### [picture!] (Images/InteractivePlot-LivingConditionsVSHealthRisks.gif)
+![picture](Images/InteractivePlot-LivingConditionsVSHealthRisks.gif)
+
