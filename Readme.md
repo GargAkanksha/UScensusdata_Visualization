@@ -15,5 +15,5 @@
 ### 1. Generally, all health risks (Lack of Healthcare, Obesity, Smoking) show an upward trend with respect to increase in poverty rate.
 ### 2. However, all health risks show a downward trend with respect to increase in median household income.
 ### 3. There is no clear trend with respect to age, the data is more concentrated in the middle.
-###4.Texas has the highest number of uninsured residents nationwide.
+### 4.Texas has the highest number of uninsured residents nationwide.
 
