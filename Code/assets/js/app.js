@@ -157,7 +157,7 @@ function makeResponsive() {
     // ===============================================================================
 
     // Retrive data from the csv file and plot the graph
-    var file = "https://raw.githubusercontent.com/GargAkanksha/USCensusData-InteractivePlotting/master/data/data.csv";
+    var file = "https://raw.githubusercontent.com/GargAkanksha/UScensusdata_Visualization/master/data/data.csv";
     d3.csv(file).then(successHandle,errorHandle);
 
     function errorHandle(err){
